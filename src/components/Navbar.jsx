@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="bg-[#07111f] border border-slate-700 rounded-2xl mx-5 mt-5 px-8 py-4">
 
-      <div className="flex justify-between items-center">
+      <div className="flex flex-col md:flex-row justify-between items-center gap-4">
 
         <h1 className="text-3xl font-bold">
           Port<span className="text-blue-500">Folio.</span>
@@ -47,6 +47,7 @@ function Navbar() {
           >
             Contact
           </NavLink>
+          
 
         </ul>
       </div>
