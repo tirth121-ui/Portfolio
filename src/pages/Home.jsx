@@ -38,7 +38,7 @@ export default function Home() {
               </h2>
 
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-                Tirth Patel
+                Tirth Valand
               </h1>
 
               <h3 className="text-xl md:text-2xl text-blue-400 mt-4">
